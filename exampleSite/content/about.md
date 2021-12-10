@@ -7,7 +7,7 @@ draft: false
 #caption
 caption:
   enable: true
-  title: "I’m Henara Colii, A content writer based in LDN, currently at Bookworm."
+  title: "I’m Ashok Viswanadha, Mountains and Outdoor enthusiast. Avid reader of Telugu literature."
 
 # social
 social:
@@ -18,31 +18,18 @@ social:
 
   - link: "https://www.twitter.com/"
     icon: "lab la-twitter"
-    
+
   - link: "https://www.linkedin.com/"
     icon: "lab la-linkedin-in"
-    
+
   - link: "https://www.github.com/"
     icon: "lab la-github"
 
-# what_i_do
-what_i_do:
-  title: "What I Do"
-  enable: true
-  item:
-  - title: "Content Writing"
-    icon: "las la-pen-nib"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
-    
-  - title: "Photography"
-    icon: "las la-camera"
-    description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
-    
-  - title: "Web Research"
-    icon: "lar la-snowflake"
-    description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
- 
 ---
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
+Hi, I am Ashok Viswanadha. Born in Nellore, Andhra Pradesh, India.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+I moved to US in 2012 after my Undergrad from IIIT and currently working at Google, California.
+
+I am an avid reader of Telugu literature and Outdoor enthusiast, which are main categories of this blog.
+
+Drop a line if you like any of the posts.
