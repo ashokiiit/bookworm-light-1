@@ -1,21 +1,34 @@
 ---
-title: "What you need to know about Photography"
-description: "meta description"
+title: "మ్రోయు తుమ్మెద, విశ్వనాథ"
+description: "రోయు తుమ్మెద, విశ్వనాథ"
 image: "images/post/02.jpg"
 date: 2021-02-04T16:56:47+06:00
 draft: false
-author: "Lubana Era"
-tags: ["Photography"]
+author: "Viswanadha"
+tags: ["Books"]
 categories: ["Photography"]
 ---
+
+[గు] ఒక విద్య నీకు రావలయుననగా దాని మీద పుట్టెడభిమానము పెరగవలయును. ఆ యభిమానం లేకుండా నావిద్యయందు మమకారము కలగదు. అది రాదు.
+
+తాన్సేను సదారంగ్, హరిదాస్ మొదలైన వారు మహానుభావులు. హిందుస్తాని సంగీతంలో తాన్సేను ఎన్నో రాగములు కనిపెట్టెను.
+
+‘సంగీత సారము‘, రాగమాల, ‘సూర సాగర‘ మన్న గ్రంథములు కూడా రచించను. ఆ తాన్సేను అవతారపురుషుడు. అక్బర్ సభలో అబ్దుల్ రహీం అని ఒక గొప్ప కవి కలడు. అతడు తాన్సేను ను గురించి ఇలా వ్రాసెను...
+
+"ఆది శేషునకు చెవులు లేవు. భగవంతుడు చెవు లీయలేదు. అతడికి చెవులుండినచో అతడు తాన్సేను సంగీతము వినియుండెడి వాడు.తల కదల్చెదివాడు. భూమియు, సుమేరు పర్వతము క్రింద పడిపోయెడివి."
+
+[శి] అబ్దుల్ రహీం ముసల్మాను కదా ! అతడి కల్పన మన పురాణాలను నాశ్రయుంచి యున్నదేమి ?
+
+>[గు] ఇచటి ప్రశ్న ఆ కథ ఏ జాతిలో ఉన్నదని కాదు. అది కవిత్వమునకు ఎంత ఉపయోగ పడుచున్నది? అది నిజమా అబద్దమానన్నది కాదు. తాన్సేను యొక్క సంగీతమటువంటిదని చెప్పుట. అతడి సంగీతము యొక్క గొప్పదనము ఇంకెట్టు చెప్పవలయును ?
+
+తాన్సేను యొక్క సంగీతము విని సిరఃకంపరము చేయలేనివా డుండడని యర్థము. మొద్దయినను, రాయైనను కదలక యుండలేదని యర్థము. అట్టి మథురమైన సంగీత ధ్వని స్రుష్టికి మూల స్తంభము వంటిదని అర్థము. ఆ సంగీతమొక మహాయగ్నం వంటిది. ఒక మహాక్రతువు చేసినప్పుడు తచ్ఛక్తి చేత స్రుష్టిలోనున్న భూతముల యందలి దోషము పోవును. యెగుడు దిగుడులు సర్దుకొనును.
+
+>సంగీత విద్య కూడా నటువంటిది. శిశుర్వేత్తి పశుర్వేత్తి వేత్తి గానరసం ఫణి. ఆది శేషువు ఫణి. ఆయన తల ఆడించవలయును. ఆయనకువినుడు శక్తి లేదా? ఉన్నది. వినలేదా ? విన్నాడు.
+
+కాని భూమిని చలించకుండా పట్టుకున్నాడు. చెలించుచునె పట్టుకున్నాడు. ఆ చలనము మనకు తెలియుటలేదు. ఇదే శాంతారసము. ద్రుపదగాయకి లక్షణము. ఈ శాంతారసము తాన్సేను యొక్క సంగీతమందలి నిండి యుండును. అబ్దుల్ రహీం యొక్క పద్యములో ఇంత అర్థమున్నది.
 
 Photography is an invaluable medium that allows us to capture the incandescent beauty of the outside world, something many of us haven’t seen in... well, a hot minute. Global pandemics will do that.
 
 But that certainly doesn’t mean that beautiful photos can’t be taken indoors, out of windows, or in secluded outdoor locations (safely socially distanced, of course). And perhaps now is as good a time as any to gain some helpful tips on how to do just that by taking an online photography course.
 
-### Creative Design
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
->Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+### విశ్లేషణ
