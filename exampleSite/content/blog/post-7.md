@@ -1,12 +1,13 @@
 ---
 title: "మ్రోయు తుమ్మెద, విశ్వనాథ"
-description: "రోయు తుమ్మెద, విశ్వనాథ"
+description: ""
 image: "images/post/02.jpg"
 date: 2021-02-04T16:56:47+06:00
 draft: false
 author: "Viswanadha"
 tags: ["Books"]
 categories: ["Photography"]
+name: "విశ్వనాథ సత్యనారాయణ"
 ---
 
 [గు] ఒక విద్య నీకు రావలయుననగా దాని మీద పుట్టెడభిమానము పెరగవలయును. ఆ యభిమానం లేకుండా నావిద్యయందు మమకారము కలగదు. అది రాదు.
