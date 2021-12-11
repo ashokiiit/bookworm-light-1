@@ -1,7 +1,7 @@
 ---
 title: "విశ్వనాథ 126వ జయంతి"
 description: ""
-image: ""
+image: "images/post/03.jpg"
 date: 2021-08-01
 draft: false
 author: "Ashok"
