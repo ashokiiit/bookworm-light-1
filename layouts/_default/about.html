@@ -11,12 +11,9 @@
       {{ end }}
 
       <div class="col-lg-8 text-center">
-        {{ if .Params.caption.enable }}
-        {{ with .Params.caption }}
-        <h2 class="text-dark font-weight-700">{{.title | markdownify}}</h2>
-        {{ end }}
-        {{ end }}
-
+        <div class="content mt-3">
+          {{.Content}}
+        </div>
         {{ if .Params.social.enable }}
         {{ with .Params.social }}
         <ul class="social-links list-unstyled list-inline mt-4">
@@ -28,13 +25,9 @@
         </ul>
         {{ end }}
         {{ end }}
-
-        <div class="content mt-3">
-          {{.Content}}
-        </div>
       </div>
     </div>
-    
+
     {{ if .Params.what_i_do.enable }}
     {{ with .Params.what_i_do }}
     <div class="section-sm pb-0">
