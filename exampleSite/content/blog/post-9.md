@@ -4,7 +4,7 @@ description: ""
 image: "images/post/07.jpg"
 date: 2020-02-04
 draft: false
-author: "Bapiraju"
+author: "baapiraju"
 tags: ["Books"]
 categories: ["Books"]
 name: "అడవి బాపిరాజు"
