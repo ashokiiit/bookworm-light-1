@@ -2,7 +2,7 @@
 title: "మ్రోయు తుమ్మెద, విశ్వనాథ"
 description: ""
 image: ""
-date: 2018-02-04
+date: 2018-02-01
 draft: false
 author: "Viswanadha"
 tags: ["Books"]

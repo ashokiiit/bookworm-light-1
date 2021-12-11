@@ -2,7 +2,7 @@
 title: "విశ్వనాథ 126వ జయంతి"
 description: ""
 image: ""
-date: 2021-02-04T16:56:47+06:00
+date: 2021-08-01
 draft: false
 author: "Ashok"
 tags: ["Books"]

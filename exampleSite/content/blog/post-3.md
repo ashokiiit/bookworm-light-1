@@ -2,7 +2,7 @@
 title: "చెలియలికట్ట, విశ్వనాథ"
 description: ""
 image: ""
-date: 2021-02-04T16:56:47+06:00
+date: 2021-09-01
 draft: false
 author: "Viswanadha"
 tags: ["Books"]

@@ -2,7 +2,7 @@
 title: "శరత్కాలపు వర్ణంలోకి.."
 description: ""
 image: "images/post/01.jpg"
-date: 2021-08-09
+date: 2021-01-01
 draft: false
 author: "Ashok"
 tags: ["Writings"]

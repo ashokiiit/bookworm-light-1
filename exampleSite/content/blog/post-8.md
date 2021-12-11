@@ -2,7 +2,7 @@
 title: "సంజీవకరణి, విశ్వనాథ"
 description: ""
 image: ""
-date: 2020-02-04
+date: 2018-03-01
 draft: false
 author: "Viswanadha"
 tags: ["Books"]
