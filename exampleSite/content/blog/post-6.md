@@ -1,7 +1,7 @@
 ---
 title: "మ్యూసింగ్స్, చలం"
 description: ""
-image: "images/post/03.jpg"
+image: "images/post/04.jpg"
 date: 2020-10-01
 draft: false
 author: "Chalam"

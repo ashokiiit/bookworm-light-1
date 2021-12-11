@@ -1,7 +1,7 @@
 ---
 title: "అమరావతి కథలు, సత్యం శంకరమంచి"
 description: ""
-image: "images/post/11.jpg"
+image: "images/post/05.jpg"
 date: 2020-08-09
 draft: false
 author: "Sankaramanchi"
