@@ -2,7 +2,7 @@
 title: "సిరివెన్నెల సీతారామశాస్త్రి"
 description: ""
 image: "images/post/10.jpeg"
-date: 2021-09-02
+date: 2021-11-01
 draft: false
 author: "Ashok"
 tags: ["Writings"]

@@ -2,7 +2,7 @@
 title: "మ్యూసింగ్స్, చలం"
 description: ""
 image: "images/post/03.jpg"
-date: 2020-01-01
+date: 2020-10-01
 draft: false
 author: "Chalam"
 tags: ["Books"]

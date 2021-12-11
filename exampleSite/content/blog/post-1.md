@@ -2,7 +2,7 @@
 title: "శరత్కాలపు వర్ణంలోకి.."
 description: ""
 image: "images/post/01.jpg"
-date: 2021-01-01
+date: 2021-12-01
 draft: false
 author: "Ashok"
 tags: ["Writings"]
@@ -21,6 +21,5 @@ name: "అశోక్ విశ్వనాథ"
 అంతులేని నీలపు పరమాణములోనుండి,
 రోజూరాలుతూ, ఇలా శరత్కాలపు వర్ణంలోకి.
 
-{{< image src="images/post/01.jpg" caption="Wonderland Trail, Mt.Rainier, US" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
 
 >Blue is the only color without dimensions 💙
