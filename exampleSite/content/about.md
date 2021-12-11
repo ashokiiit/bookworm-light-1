@@ -6,8 +6,8 @@ draft: false
 
 #caption
 caption:
-  enable: true
-  title: "I’m Ashok Viswanadha, Mountains and Outdoor enthusiast. Avid reader of Telugu literature."
+  enable: false
+  title: ""
 
 # social
 social:
@@ -26,10 +26,6 @@ social:
     icon: "lab la-github"
 
 ---
-Hi, I am Ashok Viswanadha. Born in Nellore, Andhra Pradesh, India.
+నమస్కారం. నా పేరు అశోక్ వర్థన్ విశ్వనాథ.
 
-I moved to US in 2012 after my Undergrad from IIIT and currently working at Google, California.
-
-I am an avid reader of Telugu literature and Outdoor enthusiast, which are main categories of this blog.
-
-Drop a line if you like any of the posts.
+నేను చదివిన పుస్తకాలలో నన్నుకదిలించిన విషయాలు ఇక్కడ భధ్రపరుస్తుంటాను. అప్పుడుడప్పుడు రాయటానికి ప్రయత్నిస్తుంటాను. వీలైనంత వరకు తెలుగులో.
