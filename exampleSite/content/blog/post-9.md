@@ -1,7 +1,7 @@
 ---
 title: "నారాయణరావు, అడవి బాపిరాజు"
 description: ""
-image: "images/post/narayanarao.jpg"
+image: "images/post/07.jpg"
 date: 2020-02-04
 draft: false
 author: "Bapiraju"
