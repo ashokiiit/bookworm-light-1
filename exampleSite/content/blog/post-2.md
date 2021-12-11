@@ -1,8 +1,8 @@
 ---
 title: "చలం, రవీంద్రులు"
 description: ""
-image: ""
-date: 2021-10-01
+image: "images/post/02.jpg"
+date: 2021-06-01
 draft: false
 author: "Chalam"
 tags: ["Books"]
