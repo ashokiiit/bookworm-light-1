@@ -10,7 +10,7 @@
         <div class="row">
           {{range .Data.Pages}}
           <div class="col-lg-6">
-            {{.Render "post"}}
+            {{.Render "post" | htmlUnescape | safeHTML}}
           </div>
           {{end}}
         </div>
