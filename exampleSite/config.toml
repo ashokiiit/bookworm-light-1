@@ -78,7 +78,7 @@ color_primary = "#01AD9F"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo-3.png"
+logo = "images/logo.png"
 
 logo_width = "200px"
 
