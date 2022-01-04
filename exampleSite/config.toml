@@ -80,7 +80,7 @@ color_primary = "#01AD9F"
 [params]
 logo = "images/logo-3.png"
 
-logo_width = "400px"
+logo_width = "300px"
 
 favicon = "images/favicon.png"
 
