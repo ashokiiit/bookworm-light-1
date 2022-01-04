@@ -78,9 +78,12 @@ color_primary = "#01AD9F"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
-logo_width = "200px"
+logo = "images/logo-2.png"
+
+logo_width = "100px"
+
 favicon = "images/favicon.png"
+
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
