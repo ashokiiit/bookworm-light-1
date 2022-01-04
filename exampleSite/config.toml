@@ -5,10 +5,10 @@ title = "Vasuki"
 theme = "bookworm-light"
 
 # post pagination
-paginate = "5"
+paginate = "7"
 
 # post excerpt
-summaryLength = "20"
+summaryLength = "30"
 
 # google analytics
 googleAnalytics = "" # example : UA-123-45
@@ -72,13 +72,13 @@ h6 = "6px"
 white = "#ffffff"
 black = "#000000"
 dark = "#152035"
-gray = "#747577"
-light = "#FAFAFA"
+gray = "#152035"
+light = "#ffffff"
 color_primary = "#01AD9F"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo-1.jpg"
 logo_width = "200px"
 favicon = "images/favicon.png"
 # Meta data

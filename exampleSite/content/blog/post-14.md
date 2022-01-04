@@ -1,8 +1,8 @@
 ---
-title: "విశ్వనాథ 126వ జయంతి"
+title: "శ్రీపాద సుబ్రమణ్యశాస్త్రి - అనుభవాలు జ్ఞాపకాలు"
 description: ""
 image: "images/post/14.jpeg"
-date: 2021-09-01
+date: 2021-12-27
 draft: false
 author: "Ashok"
 tags: ["Books"]
